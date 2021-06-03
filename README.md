@@ -1,6 +1,6 @@
 # Criando um catálogo de jogos com ASP.NET Core Web API
 
-<p>Essa API foi criada como parte do _Criando um catálogo de jogos usando boas práticas de arquitetura com .NET_ no <a href="https://web.digitalinnovation.one/track/gft-start-2-net">Bootcamp GFT Start #2 .NET</a> da <a href="https://www.linkedin.com/company/gft-group/">GFT</a> pela plataforma da <a href="https://web.digitalinnovation.one/home">Digital Innovation One</a> e foi apresentado pelo <a href="https://www.linkedin.com/in/thiago-campos-de-oliveira-693a3840/">Thiago Campos</a>.</p>
+<p>Essa API foi criada como parte do _Criando um catálogo de jogos usando boas práticas de arquitetura com .NET no <a href="https://web.digitalinnovation.one/track/gft-start-2-net">Bootcamp GFT Start #2 .NET</a> da <a href="https://www.linkedin.com/company/gft-group/">GFT</a> pela plataforma da <a href="https://web.digitalinnovation.one/home">Digital Innovation One</a> e foi apresentado pelo <a href="https://www.linkedin.com/in/thiago-campos-de-oliveira-693a3840/">Thiago Campos</a>.</p>
 
 <img src="img/API-DOTNET.png">
 
@@ -27,4 +27,5 @@
 
 
 
-<p>_Deixe simples, reduza códigos_</p>
+<p>"Deixe simples, reduza códigos"</p>
+<p>"Refatore"</p>
